@@ -1,0 +1,29 @@
+body {
+  background-color: #ffc0cb;
+}
+
+body, button, input{
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.input {
+  width: 15em;
+  background-color: #ffc0cb;
+  color: black;
+  border: 2px solid black;
+  border-radius: 3px;
+}
+
+button {
+  background-color: #ff7f9d;
+  border: 2px solid #e65c77;
+  border-radius: 3px;
+  padding: 5px 10px 
+}
+
+button:hover {
+  background-color: #e65c77;
+  border-color: black;
+}
